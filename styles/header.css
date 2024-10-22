@@ -1,0 +1,12 @@
+header {
+    & a:first-child {
+        margin-right: auto;
+    }
+    
+    & div {
+        & nav {
+            gap: 1.5rem;
+        }
+    }
+
+}
